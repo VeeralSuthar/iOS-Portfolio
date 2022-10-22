@@ -3,7 +3,7 @@
 ## Healthy Homes
 [Tribal Healthy Homes](https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836) works to help Tribal citizens’ homes stay free of health and safety hazards and can substantially promote the well-being of residents. This new app highlights various hazards that are most common in Tribal housing, and the steps residents can take to eliminate these hazards. These hazards often relate to substandard ventilation systems, and others such as lead, unsafe use of poisons, and more.
 
-The live conference room was built using Twilio SDK (main features: one-on-one, one-to-many, community mode, live video player inside the room managed by the teacher, Airplay/HDMI and bluetooth headphones support). I was the sole mobile developer of the app.
+Developed for the U.S. Department of Housing and Urban Development using Swift and UIKit. I was the sole developer on this app.
 
 ##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
 ##### 🚀Platform: 📱iOS, iPad.

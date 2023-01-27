@@ -8,7 +8,6 @@ Developed for the U.S. Department of Housing and Urban Development using Swift a
 ##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
-<a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
 </p>
 
 

@@ -8,6 +8,7 @@ Developed for the U.S. Department of Housing and Urban Development using Swift a
 ##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
+<a href="https://apps.apple.com/us/app/basemetrics/id1545402923" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
 </p>
 
 
@@ -19,5 +20,4 @@ Developed as a team member through the Oklahoma State App Center for a study con
 ##### 🔨Technologies: UIKit, MVVM, Firebase, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/basemetrics/id1545402923" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
 </p>

@@ -1,5 +1,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veeralsuthar)
 
+## Amotions Inc.
+[Amotions Inc.] (https://www.amotionsinc.com/) transforms organizations by installing new daily habits and  Growing, engaging, and retaining next-generation leaders. This iOS app is used to suppplement the Amotions coursework with easy access. 
+
+Developed as a team member of the mobile division, as well as worked on developing the backend using AWS and Python.
+
+##### 🔨Technologies: UIKit, SwiftUI, XCTests, Firebase
+##### 🚀Platform: 📱iOS, iPad
+
 ## Healthy Homes
 [Tribal Healthy Homes](https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836) works to help Tribal citizens’ homes stay free of health and safety hazards and can substantially promote the well-being of residents. This new app highlights various hazards that are most common in Tribal housing, and the steps residents can take to eliminate these hazards. These hazards often relate to substandard ventilation systems, and others such as lead, unsafe use of poisons, and more.
 

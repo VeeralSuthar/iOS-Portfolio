@@ -8,7 +8,7 @@ Developed as a team member of the mobile division, as well as worked on developi
 ##### 🔨Technologies: UIKit, SwiftUI, XCTests, Firebase
 ##### 🚀Platform: 📱iOS, iPad
 <p align="center">
-<a href="" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="AmotionsInc"></a>
+<a href="" target="_blank"><img src="images/NA Healthy Homes/AmotionsInc.png" width="900" title="AmotionsInc"></a>
 </p>
 
 ## Healthy Homes

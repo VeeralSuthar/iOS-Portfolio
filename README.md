@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veeralsuthar)
 
-## Amotions Inc.
+## Amotions Inc. [In Production]
 [Amotions Inc.](https://www.amotionsinc.com/) transforms organizations by installing new daily habits and  Growing, engaging, and retaining next-generation leaders. This iOS app is used to suppplement the Amotions coursework with easy access. 
 
 Developed as a team member of the mobile division, as well as worked on developing the backend using AWS and Python.

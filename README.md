@@ -22,6 +22,16 @@ Developed for the U.S. Department of Housing and Urban Development using Swift a
 <a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
 </p>
 
+## DCA Calculator
+A dollar cost averaging calculator to project potential returns for financial assets like stocks, equities & ETFs. This app was a personal project to gain an introductory insight into FinTech utilizing the Alpha Vantage stock API.
+
+Developed as a personal project.
+
+##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a target="_blank"><img src="images/NA Healthy Homes/DCA Calulator App.png" width="900" title="DCA-Calculator"></a>
+</p>
 
 ## BaseMetrics
 [BaseMetrics](https://apps.apple.com/us/app/basemetrics/id1545402923) Study app is designed as a personal preventive heart health guide for aging adults. The app provides heart health education and helps to keep track of key biometrics for study participants.

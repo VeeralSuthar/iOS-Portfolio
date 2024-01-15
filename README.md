@@ -1,5 +1,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veeralsuthar)
 
+## Omni Departure
+[Omni Air International](oai.aero) An internal application designed for OAI ground crews to streamline the cargo and passenger loading processes, convey essential data to relevant stakeholders, and optimize backend operations.
+
+Developed as the sole mobile developer on the team performing frontend and backend work. Involves multiple iOS SDKs (SwiftUI, Combine, PDFKit, AVKit, CoreData) as well as leveraging 3rd party packages (Fastlane, SwiftLint). Backend development was completed using C# and SQL Server.
+
+##### 🔨Technologies: SwiftUI, SQL Server, XCTests, 
+##### 🚀Platform: 📱iPad
+<p align="center">
+<a href="" target="_blank"><img src="images/Omni Departure.png" width="900" title="OAI"></a>
+</p>
+
 ## Amotions Inc. [In Production]
 [Amotions Inc.](https://www.amotionsinc.com/) transforms organizations by installing new daily habits and  Growing, engaging, and retaining next-generation leaders. This iOS app is used to suppplement the Amotions coursework with easy access. 
 
@@ -8,7 +19,7 @@ Developed as a team member of the mobile division, as well as worked on developi
 ##### 🔨Technologies: UIKit, SwiftUI, XCTests, Firebase
 ##### 🚀Platform: 📱iOS, iPad
 <p align="center">
-<a href="" target="_blank"><img src="images/NA Healthy Homes/AmotionsInc.png" width="900" title="AmotionsInc"></a>
+<a href="" target="_blank"><img src="images/AmotionsInc.png" width="900" title="AmotionsInc"></a>
 </p>
 
 ## Healthy Homes
@@ -16,10 +27,10 @@ Developed as a team member of the mobile division, as well as worked on developi
 
 Developed for the U.S. Department of Housing and Urban Development using Swift and UIKit. I was the sole developer on this app.
 
-##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
+##### 🔨Technologies: UIKit, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank"><img src="images/NA Healthy Homes/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
+<a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank"><img src="images/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
 </p>
 
 ## DCA Calculator
@@ -27,10 +38,10 @@ A dollar cost averaging calculator to project potential returns for financial as
 
 Developed as a personal project.
 
-##### 🔨Technologies: UIKit, MVC, UI + Unit Tests
+##### 🔨Technologies: UIKit, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a target="_blank"><img src="images/NA Healthy Homes/DCA Calulator App.png" width="900" title="DCA-Calculator"></a>
+<a target="_blank"><img src="images/DCA Calulator App.png" width="900" title="DCA-Calculator"></a>
 </p>
 
 ## BaseMetrics
@@ -38,7 +49,7 @@ Developed as a personal project.
 
 Developed as a team member through the Oklahoma State App Center for a study conducted by the university.
 
-##### 🔨Technologies: UIKit, MVVM, Firebase, UI + Unit Tests
+##### 🔨Technologies: UIKit, Firebase, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
 </p>
